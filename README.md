@@ -4,7 +4,10 @@ This non-graded assignment is used just to get students linked into the CSC232 G
 
 _As suggested in the previous sentence, this is a non-graded assignment. Whether you choose to work on this or not is your perrogative. The end-goal of this assignment is to simply link you to my GitHub classroom. This will happen simply by virtue of you following the assignment link provided to you by your instructor._
 
-**Please note**: This assignment has been re-used for several semesters and as such, there may be some screen snapshots that appear different from your experience. If this descrepency creates any confusion for you, please raise an issue here: [https://github.com/msu-csc232-fa21/lab0a-intro-to-git/issues](https://github.com/msu-csc232-fa21/lab0a-intro-to-git/issues).
+**Please note**: 
+
+* This assignment has been re-used for several semesters and as such, there may be some screen snapshots that appear different from your experience. If this descrepency creates any confusion for you, please raise an issue here: [https://github.com/msu-csc232-sp22/lab0a-intro-to-git/issues](https://github.com/msu-csc232-sp22/lab0a-intro-to-git/issues).
+* This lab is reused each semester, so some screen snapshots will appear to reference these previous semesters.
 
 ## Goals
 
@@ -98,7 +101,7 @@ When you tap on that button, you actually have two different options for cloning
 Once you have obtained the repository's URL, cloning is done by simply executing the following `git` command:
 
 ```bash
-git clone https://github.com/msu-csc232-fa21/lab0a-intro-to-git-your-github-username.git
+git clone https://github.com/msu-csc232-sp22/lab0a-intro-to-git-your-github-username.git
 ```
 
 Please note the following:
@@ -109,7 +112,7 @@ Please note the following:
 ```bash
 $ mkdir -p csc232/lab
 $ cd csc232/lab
-$ git clone https://github.com/msu-csc232-fa21/lab0a-intro-to-git-your-github-username.git
+$ git clone https://github.com/msu-csc232-sp22/lab0a-intro-to-git-your-github-username.git
 Cloning into 'lab0a-intro-to-git-your-github-username.git'...
 remote: Counting objects: 5, done.
 remote: Compressing objects: 100% (5/5), done.
@@ -277,4 +280,4 @@ To complete this assignment, one must:
 
 ## Issues
 
-If you have found any issues with this lab, e.g., the output of a command didn't match yours, or you have found typos, or one or more sections are worded in a manner that seems confusing or misleading, please bring it to my attention. The best way to do that is to "raise an Issue." Visit [https://github.com/msu-csc232-fa21/lab0a-intro-to-git/issues](https://github.com/msu-csc232-fa21/lab0a-intro-to-git/issues) and tap on the "New Issue" button.
+If you have found any issues with this lab, e.g., the output of a command didn't match yours, or you have found typos, or one or more sections are worded in a manner that seems confusing or misleading, please bring it to my attention. The best way to do that is to "raise an Issue." Visit [https://github.com/msu-csc232-sp22/lab0a-intro-to-git/issues](https://github.com/msu-csc232-sp22/lab0a-intro-to-git/issues) and tap on the "New Issue" button.
